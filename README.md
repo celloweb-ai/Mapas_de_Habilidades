@@ -52,4 +52,4 @@ Estratégias para gerar valor a partir das habilidades identificadas:
 ---
 
 ## 🔗 Links
-* [Meu Perfil no LinkedIn](https://www.linkedin.com/in/marcysvasconcellos)
+* [Meu Perfil no LinkedIn](https://www.linkedin.com/in/marcusvasconcellos)
